@@ -3,3 +3,4 @@ Content/Particles_Wind_Control_System/** filter=lfs diff=lfs merge=lfs -text
 Content/Particles_Wind_Control_System/Textures/HDRI/T_Day_C.uasset filter=lfs diff=lfs merge=lfs -text
 Content/M5VFXVOL2/** filter=lfs diff=lfs merge=lfs -text
 Content/Hour_of_Code/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
+Content/InfinityBladeEffects/** filter=lfs diff=lfs merge=lfs -text
